@@ -1,3 +1,3 @@
 # Text Improvement
-There is a class for this task, which has one function to improve the text using Word2Vec and cosine similarity.
-
+There is a function, which learn to replace the words in the given text to the "right words", which you feed into it.
+It learns and tries to find synonyms for the given words and change them.
