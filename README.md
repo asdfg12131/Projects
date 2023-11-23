@@ -17,4 +17,4 @@ In the future, the goal is to come up with a system of recommendations for buyer
   <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
 </div>
 
-https://img.shields.io/badge/LinkedIn-blue
+
