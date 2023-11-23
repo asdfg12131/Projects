@@ -3,7 +3,7 @@
 </div>
 
 
-[My CV](https://github.com/asdfg12131/Projects/blob/main/CV.pdf)
+## [My CV](https://github.com/asdfg12131/Projects/blob/main/CV.pdf)
 
 ## Example of the projects:
 
