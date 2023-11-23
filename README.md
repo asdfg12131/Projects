@@ -3,7 +3,7 @@
 </div>
 My CV in file CV.pdf 
 [CV](https://github.com/user/repo/blob/branch/other_file.md](https://github.com/asdfg12131/Projects/blob/main/CV.pdf)
-[Текст ссылки](https://www.example.com](https://github.com/asdfg12131/Projects)
+[Текст ссылки]([https://www.example.com](https://github.com/asdfg12131/Projects](https://github.com/asdfg12131/Projects/edit/main/README.md))
 #Example of the projects:
 
 1)Text Improvement (Using NLP)
