@@ -5,7 +5,7 @@
 
 
 My CV in file CV.pdf 
-[CV]([https://www.apple.com/](https://github.com/asdfg12131/Projects/blob/main/CV.pdf))
+[CV](https://github.com/asdfg12131/Projects/blob/main/CV.pdf)
 
 #Example of the projects:
 
