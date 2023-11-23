@@ -5,7 +5,7 @@
 
 [My CV](https://github.com/asdfg12131/Projects/blob/main/CV.pdf)
 
-#Example of the projects:
+## Example of the projects:
 
 1)Text Improvement (Using NLP)
 
