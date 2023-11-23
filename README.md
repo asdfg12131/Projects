@@ -14,5 +14,5 @@ The idea of image classification over a clothing dataset.
 In the future, the goal is to come up with a system of recommendations for buyers.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
 </div>
