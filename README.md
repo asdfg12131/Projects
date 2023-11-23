@@ -2,13 +2,6 @@
   <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
 </div>
 
-<head>
-  <style>
-    а {
-      text-decoration: none;
-    }
-  </style>
-</head>
 
 [My CV](https://github.com/asdfg12131/Projects/blob/main/CV.pdf)
 ---
