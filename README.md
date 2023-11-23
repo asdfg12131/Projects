@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
 </div>
 My CV in file CV.pdf 
-[a link]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/asdfg12131/Projects/blob/main/CV.pdf))
+[CV](https://github.com/user/repo/blob/branch/other_file.md](https://github.com/asdfg12131/Projects/blob/main/CV.pdf)
 
 #Example of the projects:
 
