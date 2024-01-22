@@ -6,7 +6,7 @@
 [My Resume](https://github.com/asdfg12131/Projects/blob/main/Resume.pdf)
 ---
 Example of the projects: <br/>
-* [Face detection system](https://github.com/asdfg12131/Projects/blob/main/Recomdation_System.ipynb) (CV project with PyTorch):  <br/>
+* [Face detection system](https://github.com/asdfg12131/Projects/blob/main/Recomdation_System.ipynb) (CV project with FaceNet-PyTorch):  <br/>
 A video face detection system that saves a file with an already processed face detection record.
 
 * [Text Improvement](https://github.com/asdfg12131/Projects/blob/main/Engine.py) (Using NLP)  <br/>
