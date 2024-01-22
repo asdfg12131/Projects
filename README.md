@@ -6,6 +6,8 @@
 [My Resume](https://github.com/asdfg12131/Projects/blob/main/Resume.pdf)
 ---
 Example of the projects: <br/>
+* [Face detection system](https://github.com/asdfg12131/Projects/blob/main/Recomdation_System.ipynb) (CV project with PyTorch):  <br/>
+A video face detection system that saves a file with an already processed face detection record.
 
 * [Text Improvement](https://github.com/asdfg12131/Projects/blob/main/Engine.py) (Using NLP)  <br/>
 There is a function, which learn to replace the words in the given text to the "right words", which you feed into it.
