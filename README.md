@@ -9,7 +9,7 @@ Example of the projects: <br/>
 * [Face detection system](https://github.com/asdfg12131/Projects/blob/main/Face_detection.ipynb) (CV project with FaceNet-PyTorch):  <br/>
 A video face detection system that saves a file with an already processed face detection record.
 
-* [Text Improvement](https://github.com/asdfg12131/Projects/blob/main/Engine.py) (Using NLP)  <br/>
+* [Text Improvement](https://github.com/asdfg12131/Projects/blob/main/NLP.py) (Using NLP)  <br/>
 There is a function, which learn to replace the words in the given text to the "right words", which you feed into it.
 It learns and tries to find synonyms for the given words and change them.  <br/>
 
